@@ -1,13 +1,12 @@
 /* BONUS */
 .bonus {
     height: 100vh;
+    /* DEBUG */
     background-color: darkblue;
 }
 
-.box {
-    height: 100px;
-}
 
+/* COLORS */
 .star {
     background-color: #16256a;
 }
@@ -36,6 +35,11 @@
     background-color: white;
 }
 
+/* BOXES */
+.box {
+    height: 100px;
+}
+
 .box-50 {
     height: 50px;
 }
@@ -44,6 +48,9 @@
     height: 75px;
 }
 
+.box-30 {
+    height: 30px;
+}
 /* UTILITIES */
 .mt {
     margin-top: 3.2rem;
