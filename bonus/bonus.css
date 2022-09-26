@@ -1,0 +1,54 @@
+/* BONUS */
+.bonus {
+    height: 100vh;
+    background-color: darkblue;
+}
+
+.box {
+    height: 100px;
+}
+
+.star {
+    background-color: #16256a;
+}
+
+.universe {
+    background-color: #00030c;
+}
+
+.brighter {
+    background-color: #304db3;
+}
+
+.even-brighter {
+    background-color: #6594f0;
+}
+
+.light {
+    background-color: #8dbdff;
+}
+
+.core {
+    background-color: #cbedf9;
+}
+
+.white-star {
+    background-color: white;
+}
+
+.box-50 {
+    height: 50px;
+}
+
+.box-75 {
+    height: 75px;
+}
+
+/* UTILITIES */
+.mt {
+    margin-top: 3.2rem;
+}
+
+.mb {
+    margin-bottom: 3rem;
+}
