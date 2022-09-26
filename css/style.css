@@ -7,3 +7,22 @@
     align-items: center;
     border: 1px solid white;
 }
+
+.green {
+    background-color: green;
+    height: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1px solid blue;
+}
+
+.padding {
+    padding: 2rem 1rem;
+}
+
+.mt {
+    margin-top: 2rem;
+}
